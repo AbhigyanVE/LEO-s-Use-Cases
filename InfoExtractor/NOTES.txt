@@ -8,3 +8,8 @@ HG
 # pip install flask requests beautifulsoup4 transformers torch
 pip install flask beautifulsoup4 transformers torch playwright
 playwright install
+
+
+Version 1.1
+pip install flask beautifulsoup4 requests transformers torch playwright openai python-dotenv
+playwright install
