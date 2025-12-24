@@ -1,0 +1,10 @@
+LLM
+pip install flask python-dotenv openai requests beautifulsoup4
+
+ML
+pip install flask requests beautifulsoup4
+
+HG
+# pip install flask requests beautifulsoup4 transformers torch
+pip install flask beautifulsoup4 transformers torch playwright
+playwright install

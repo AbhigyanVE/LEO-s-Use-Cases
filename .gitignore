@@ -1,0 +1,8 @@
+# Ignore environment variable files
+.env
+
+# Ignore any folder named NOTES
+NOTES/
+
+# Ignore any file named NOTES.txt (anywhere)
+# NOTES.txt

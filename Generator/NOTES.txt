@@ -1,0 +1,2 @@
+pip install -U google-generativeai python-dotenv
+pip install google-genai
